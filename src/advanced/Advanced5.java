@@ -10,5 +10,6 @@ public class Advanced5 {
 
         fruits.stream().filter(str -> !str.matches(".*[0-9].*")).forEach(System.out::println);
 
+
     }
 }
