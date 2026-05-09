@@ -1,4 +1,4 @@
-package basics;
+package Strings.basics;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package intermediate;
+package Strings.intermediate;
 
 import java.util.Arrays;
 import java.util.List;
