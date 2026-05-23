@@ -1,4 +1,4 @@
-package ListOfNumbers.basics.intermediate;
+package ListOfNumbers.intermediate;
 
 import java.util.Arrays;
 import java.util.List;
