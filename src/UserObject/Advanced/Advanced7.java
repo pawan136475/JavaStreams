@@ -24,4 +24,5 @@ public class Advanced7 {
         double highest = map.get(key);
         System.out.println("highest- " + highest);
     }
+
 }
